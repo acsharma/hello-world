@@ -1,4 +1,4 @@
-<h1> /\/\\//\/\/\\/\////\/\///////</h1>
+<h1> Heloo Agilites</h1>
 
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for MediaAgility </h2>
@@ -8,5 +8,5 @@
 <h1> \/\/\\//\/\/\\/\////\/\/////</h1>
 
 
-@Rahul 
+@Kunal
 
